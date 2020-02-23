@@ -1,3 +1,5 @@
+** View this in raw format or with notepad++ for better reading **
+
 Instructions:
 1. Format USB with EFI and Boot files
 2. Edit config.plist file using updated configuration (Line 18)
